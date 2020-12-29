@@ -493,6 +493,13 @@ figcaption {
   margin: 0 0 20px 25px;
 }
 
+.link1:hover,
+.link2:hover,
+.link3:hover,
+.link4:hover {
+  color: #CCC;
+}
+
 .link1::before {
   content: url(img/skype.svg);
   position: absolute;
